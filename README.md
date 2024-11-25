@@ -38,4 +38,4 @@ This final module of the course is more biological than previous ones and is the
 
 On the server B-MBIMIGE2024 ~/data/fungalgenomics_collemare/day1/ and ~/data/fungalgenomics_collemare/day2/
 
-All presentations, assignments, command lines and answers on https://github.com/JeromeCollemare/Microbial_Genomics_Course in due time
+All presentations, assignments, command lines and answers on https://github.com/JeromeCollemare/Microbial_Genomics_course_24day* in due time
