@@ -196,7 +196,7 @@ keeping only positions that are present in at least 60% of all sequences. Visual
 > Q5: Using the trimmed alignment, build a phylogenetic tree using the FastTree command line (https://manpages.ubuntu.com/manpages/focal/man1/fasttree.1.html); use the LG amino acid substitution model.
 
 Visualize the phylogenetic tree with the online tool iTOL
-(https://itol.embl.de) (you need to create a free iTOL account to upload or drag the tree file). Drag and drop the tree file, then in the advanced options on the right (bottom), root the tree with the midpoint method. Format the layout of the tree at your convenience using the different options offered in iTOL. It is recommended to show the bootstrap values using the Advanced tab and only display those above 0.99. Color labels according to the species which thus indicate the host plant.
+(https://itol.embl.de) (you need to create a free iTOL account to upload or drag the tree file). Drag and drop the tree file, then in the advanced options on the right (bottom), root the tree with the midpoint method. Format the layout of the tree at your convenience using the different options offered in iTOL. It is recommended to show the bootstrap values using the Advanced tab and only display those above 0.99. To color labels according to the species which thus indicate the host plant, drag and drop the **~/data/fungalgenomics_collemare/day2/day2_itol_annotation.txt** file in iTOL.
 NB: you will not be able to save the annotated tree in the free access version.
 
 > Q6: Can you identify a PKS that is common to all species, *ie* a clade with strong bootsrap support
