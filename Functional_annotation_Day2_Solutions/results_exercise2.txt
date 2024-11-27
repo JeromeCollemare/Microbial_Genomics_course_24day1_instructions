@@ -1,0 +1,14 @@
+				Aspnid1		Clafu1		Dotse1		Mycfi2		Mycgr3		Sacce1		Sepmu1		Seppo1
+########################
+Total number of protein:	10680		14127		12580		13313		11022		6575		10310		9739
+Transmembrane proteins:		1960		2175		1862		1998		1725		1285		1636		1578
+Secreted proteins:		735		938		669		678		728		207		650		543
+Small secreted proteins:	254		411		277		304		327		110		293		239
+Secreted proteases:		36		52		32		42		57		12		43		34
+Secreted CAZymes:		15		10		7		3		4		0		7		7
+PKSs:				34		12		8		9		12		1		12		11
+NPSs:				14		9		6		7		8		0		11		8
+
+PKS fungiSMASH7:		16		8		3		6		11		0		7		8
+NRPS fungiSMASH7:		19		21		15		13		11		1		10		11
+PKS-NRPS hybrid fungiSMASH7:	5		2		2		2		1		0		4		2
